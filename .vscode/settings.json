@@ -1,0 +1,6 @@
+{
+  "emmet.showSuggestionsAsSnippets": false,
+  "reactSnippets.settings.prettierEnabled": true,
+  "reactSnippets.settings.typescript": false,
+  "reactSnippets.settings.typescriptPropsStatePrefix": "interface"
+}
